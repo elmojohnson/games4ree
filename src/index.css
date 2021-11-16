@@ -1,0 +1,11 @@
+.pointer:hover {
+  cursor: pointer;
+}
+
+.upsize {
+  transition: all 0.2s ease-in-out;
+}
+
+.upsize:hover {
+  transform: scale(1.1);
+}
